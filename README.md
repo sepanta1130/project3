@@ -1,6 +1,6 @@
-# project3 
- Store Management System (C++ Console)
+# Store Management System (C++ Console)
 A simple store management app written in C++.
+ 
 Includes management for:
 
 Products
